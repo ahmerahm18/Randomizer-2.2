@@ -101,7 +101,7 @@ function randomizer() {
   background(0);
   if (songs[0]) {
     for (let i = 0; i < 8; i++) {
-      if (counter <= 35) {
+      if (counter <= 40) {
         rando = int(random(8));
         fill(255, 200, 156);
         text("artist: ", 20, 50 + i * 35);
