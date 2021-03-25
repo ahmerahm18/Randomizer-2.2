@@ -52,7 +52,7 @@ function setup() {
   fill(133, 255, 245);
   text("Song in the background is a Shelter remix", 55, 450);
   fill(255, 89, 225);
-  text("by Xeuphoria.", 270, 490);
+  text("by ZXeuphoria.", 270, 490);
   pop();
   text("click to change the artists and the songs.", 60, 560)
 
